@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0bec527-4421-431a-8c60-aaed10437730" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uija/code/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uija/code/MainReceiverSocket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uija/code/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uija/code/MessageBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uija/code/PrtConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uija/code/PrtSession.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uija/code/Receiver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uija/code/ReceiverThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uija/code/Sender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uija/code/SessionType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uija/code/enums/AppMessageType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uija/code/enums/AppRecuType.java" afterDir="false" />
-    </list>
+    <list default="true" id="e0bec527-4421-431a-8c60-aaed10437730" name="Changes" comment="first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,6 +48,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "show.migrate.to.gradle.popup": "false",
     "vue.rearranger.settings.migration": "true"
   }
@@ -131,11 +114,35 @@
       <workItem from="1711225836923" duration="65877000" />
       <workItem from="1711959960115" duration="6453000" />
       <workItem from="1712777962116" duration="4423000" />
+      <workItem from="1716876566562" duration="2094000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1716876764229</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716876764229</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
